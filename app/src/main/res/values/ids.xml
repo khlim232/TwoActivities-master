@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button2" type="id">HI</item>
+    <item name="editText_second" type="id">second</item>
+    <item name="text_message" type="id">textview</item>
+    <item name="text_header_reply" type="id">eee</item>
+</resources>
